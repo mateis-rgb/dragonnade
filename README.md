@@ -1,2 +1,2 @@
 # dragonnade
-Station de téléchargement de films et de série, ainsi que de torrents et de lien directes
+Gestionnaire de téléchargement avec recherche de films et de séries intelligente, mais aussi intègre un gestionnaire de téléchargement classique le tout sur un serveur distant.
