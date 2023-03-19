@@ -5,9 +5,7 @@
 <template>
 	<v-layout>
 		<v-navigation-drawer permanent>
-
 			<v-list>
-
 				<RouterLink to="/">
 					<v-list-item prepend-avatar="src\assets\logo.png" title="Dragonnade" subtitle="v1.0.0"></v-list-item>
 				</RouterLink>
@@ -23,7 +21,7 @@
 
 			<template v-slot:append>
 				<v-list density="compact" nav>
-					<v-list-item prepend-icon="mdi-cog" title="Paramètres" value="settings"></v-list-item>
+					<v-list-item prepend-icon="mdi-cog-outline" title="Paramètres" value="settings"></v-list-item>
 				</v-list>
 			</template>
 		</v-navigation-drawer>
