@@ -1,5 +1,5 @@
 <template>
-	<main>
-		
-	</main>
+	<div>
+		toto
+	</div>
 </template>
